@@ -3,9 +3,13 @@
 body {background: #fff}
 
 iframe {
-    display: block;
-    border-style:none;
-    margin: 20px;
+  overflow: hidden;
+}
+
+#tlkio {
+  background-color: #FAF9F6;
+  border-radius: 6px;
+  padding-top: 1em;
 }
 
 .row {width: 960px}
